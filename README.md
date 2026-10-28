@@ -12,6 +12,10 @@
   <a href="https://github.com/abraxas/veneficus">github.com/abraxas/veneficus</a><br>
   Credit: <a href="https://x.com/YoSoth0">@YoSoth0</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/veneficus"><strong>https://abraxaslabs.tech/research/veneficus</strong></a>
+</p>
+
 
 # Veneficus Mini v3.0
 
